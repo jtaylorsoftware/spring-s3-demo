@@ -1,0 +1,7 @@
+context:
+  initializer:
+    classes: com.github.jtaylordev.cloudstore.BeansInitializer
+
+s3:
+  bucketName: s3-demo-dev
+  maxListKeys: 10
